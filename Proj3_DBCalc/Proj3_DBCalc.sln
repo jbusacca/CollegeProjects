@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proj3_DBCalc", "Proj3_DBCalc.csproj", "{EFE434C9-498A-4C69-9725-D9C3D0D6995E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFE434C9-498A-4C69-9725-D9C3D0D6995E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE434C9-498A-4C69-9725-D9C3D0D6995E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE434C9-498A-4C69-9725-D9C3D0D6995E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE434C9-498A-4C69-9725-D9C3D0D6995E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8535D0E0-6E61-43EE-A771-9D6254EC26C8}
+	EndGlobalSection
+EndGlobal
